@@ -11,13 +11,13 @@ steps:
 # Шаг 1: Checkout кода
 - name: Checkout code
 uses: actions/checkout@v4
-# Шаг 2: Setup Node.js (может пригодиться для более сложных сборок)
+# Шаг 2: Setup Node.js
 - name: Setup Node.js
 uses: actions/setup-node@v4
 with:
 node-version: '18'
 cache: 'npm'
-# Шаг 3: Проверка HTML (опционально)
+# Шаг 3: Проверка HTML
 - name: HTML Validation
 uses: cyrilletuzi/validate-html@v4
 with:
