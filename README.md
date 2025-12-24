@@ -21,10 +21,10 @@ my-static-site/
 ## 🛠 Локальная разработка
 1. Клонируйте репозиторий:
 bash
-git clone https://github.com/username/my-static-site.git
+git clone https://github.com/kamikotawu/my-static-site.git
 2. Откройте `index.html` в браузере или используйте Live Server в VS Code.
 ## 🌐 Деплой
 Сайт автоматически деплоится при пуше в ветку `main`.
-**Production URL:** https://username.github.io/my-static-site
+**Production URL:** https://kamikotawu.github.io/my-static-site
 ## 📝 Лицензия
 MIT License - смотрите файл [LICENSE](LICENSE) для деталей.
