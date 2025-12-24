@@ -1,6 +1,6 @@
 # Мой статический сайт
-[![Deploy to GitHub Pages](https://github.com/username/my-static-
-site/actions/workflows/deploy.yml/badge.svg)](https://github.com/username/my-
+[![Deploy to GitHub Pages](https://github.com/kamikotawu/my-static-
+site/actions/workflows/deploy.yml/badge.svg)](https://github.com/kamikotawu/my-
 static-site/actions)
 Современный статический сайт, развернутый на GitHub Pages с использованием
 CI/CD.
