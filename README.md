@@ -8,6 +8,7 @@ CI/CD.
 - ✅ Автоматическое развертывание через GitHub Actions
 - ✅ Бесплатный хостинг на GitHub Pages
 ## 📁 Структура проекта
+```text
 my-static-site/
 ├── .github/workflows/ # CI/CD конфигурации
 ├── css/ # Стили
@@ -16,6 +17,7 @@ my-static-site/
 ├── index.html # Главная страница
 ├── about.html # Страница "О нас"
 └── _config.yml # Конфигурация GitHub Pages
+```
 ## 🛠 Локальная разработка
 1. Клонируйте репозиторий:
 bash
