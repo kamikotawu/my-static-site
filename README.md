@@ -1,11 +1,5 @@
 # Мой статический сайт
-<<<<<<< HEAD
-[![Deploy to GitHub Pages](https://github.com/kamikotawu/my-static-
-site/actions/workflows/deploy.yml/badge.svg)](https://github.com/kamikotawu/my-
-static-site/actions)
-=======
 [![Deploy to GitHub Pages](https://github.com/kamikotawu/my-static-site/actions/workflows/deploy.yml/badge.svg)](https://github.com/kamikotawu/my-static-site/actions)
->>>>>>> 5aeb39e27d73e8c2b3fc53706e54220121388272
 Современный статический сайт, развернутый на GitHub Pages с использованием
 CI/CD.
 ## 🚀 Особенности
