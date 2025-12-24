@@ -19,10 +19,10 @@ jobs:
           cache: 'npm'
       # Шаг 3: Проверка HTML
       - name: HTML Validation
-        uses: cyrilletuzi/validate-html@v4
+        uses: Cyb3r-Jak3/html5validator-action@v7.2.0
         with:
-          pattern: "**/*.html"
-          level: warning
+          # pattern: "**/*.html"
+          root: ./
       # Шаг 4: Деплой на GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
